@@ -62,4 +62,4 @@ Answer = 1.0426
 
 1.0426 - 1 = 0.0426
 
-Percentage: 4.26%
+Percentage = 4.26%
