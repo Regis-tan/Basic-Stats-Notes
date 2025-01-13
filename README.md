@@ -25,4 +25,7 @@ Q3: 33, 36, 39, **42**, 45, 48, 50
 **4. Calculate the trimean**
 
 Trimean Formula:
+
 ![](image-1.png)
+
+Answer: 30
