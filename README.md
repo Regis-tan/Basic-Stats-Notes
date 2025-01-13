@@ -1,4 +1,3 @@
-# Basic-Stats-Notes
 # Basic Statistics Notes
 ### **Trimean**
 **Dataset:** 10, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 50
