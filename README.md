@@ -1,2 +1,2 @@
 # Basic-Stats-Notes
-![](image-1.png)
+!(image-1.png)
