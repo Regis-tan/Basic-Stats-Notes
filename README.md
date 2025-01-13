@@ -29,3 +29,4 @@ Trimean Formula:
 ![](image-1.png)
 
 Answer: 30
+
