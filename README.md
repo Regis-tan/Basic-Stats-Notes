@@ -61,3 +61,33 @@ Answer = 1.0426
 1.0426 - 1 = 0.0426
 
 Percentage = 4.26%
+
+### **Trimmed Mean**
+
+**Dataset:**
+65, 70, 72, 75, 80, 85, 90, 92, 95, 100
+
+**Trim:**
+10%
+
+**1. Sort dataset**
+
+- The dataset is already sorted.
+
+65, 70, 72, 75, 80, 85, 90, 92, 95, 100
+
+**2. Trim dataset**
+
+- Since the trim is 10%, we have to trim 10% off each end of the dataset.
+
+- As the dataset consists of 10 values, the trim will be 1 off each side.
+
+70, 72, 75, 80, 85, 90, 92, 95
+
+**3. Calculate Mean**
+
+- Get the mean of the trimmed dataset.
+
+![](image-3.png)
+
+Answer = 82.375
