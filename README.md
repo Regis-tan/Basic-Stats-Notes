@@ -1,8 +1,7 @@
 # Basic Statistics Notes
 ### **Trimean**
+---
 **Dataset:** 10, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 50
-
-**Solution:**
 
 **1. Sort the dataset**
 - As the dataset is already sorted, this step can be skipped.
@@ -29,15 +28,13 @@ Q3: 33, 36, 39, **42**, 45, 48, 50
 Answer = 30
 
 ### **Geometric Mean**
-
+---
 **Growth Rate Dataset:**
 
 - Year 1: +5%
 - Year 2: +10%
 - Year 3: -3%
 - Year 4: +6%
-
-**Solution:**
 
 **1. Convert to growth factors**
 
@@ -63,7 +60,7 @@ Answer = 1.0426
 Percentage = 4.26%
 
 ### **Trimmed Mean**
-
+---
 **Dataset:**
 65, 70, 72, 75, 80, 85, 90, 92, 95, 100
 
@@ -93,7 +90,7 @@ Percentage = 4.26%
 Answer = 82.375
 
 ### **Standard Deviation**
-
+---
 **Dataset:**
 70,85,78,90,88
 
