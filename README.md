@@ -26,7 +26,7 @@ Q3: 33, 36, 39, **42**, 45, 48, 50
 
 ![](image-1.png)
 
-Answer: 30
+Answer = 30
 
 ### **Geometric Mean**
 
@@ -91,3 +91,31 @@ Percentage = 4.26%
 ![](image-3.png)
 
 Answer = 82.375
+
+### **Standard Deviation**
+
+**Dataset:**
+70,85,78,90,88
+
+**1. Find Mean**
+
+- Get the mean or the average of the dataset.
+
+Mean = 82.2
+
+**2. Find variance**
+
+- The formula for variance is different based on whether the data is the population or a sample.
+- A sample is a subset of the whole data while population is the entire thing.
+
+![](image-4.png)
+
+Variance = 53.76 
+
+**3. Find standard deviation**
+
+-The standard deviation is the square root of the variance.
+
+![](image-5.png)
+
+Answer = 7.33
